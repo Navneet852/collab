@@ -111,7 +111,7 @@ h2 {
 .wrapper .card{
   background:transparent;
   /* width: calc(25% - 8px); */
-  width: 250px;
+  width: 240px;
   height: 300px;
   border-radius: 5px;
   display: flex;
